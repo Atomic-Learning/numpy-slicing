@@ -23,7 +23,7 @@ x = np.array(["a", "b", "c", "d", "e"])
 # Slice from the beginning to index 3 (exclusive)
 print(x[:3])
 
-# Slice from index 2 to the end
+# Slice from index 2 (inclusive) to the end
 print(x[2:])
 ```
 
