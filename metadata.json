@@ -18,5 +18,8 @@
         "numpy-every-index-in-a-dimension",
         "numpy-everything-before-an-index",
         "numpy-everything-starting-from-an-index"
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
