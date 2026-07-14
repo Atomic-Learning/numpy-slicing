@@ -3,7 +3,8 @@
     "slug": "numpy-slicing",
     "description": "How slicing an array works in NumPy, and how the returned arrays are view of the original array.",
     "authors": [
-        "chris-cooling"
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
         "python",
