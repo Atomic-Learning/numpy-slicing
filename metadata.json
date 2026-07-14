@@ -16,9 +16,7 @@
         "python-slicing"
     ],
     "related": [
-        "numpy-every-index-in-a-dimension",
-        "numpy-everything-before-an-index",
-        "numpy-everything-starting-from-an-index"
+        "numpy-combining-indexing-slicing"
     ],
     "python_packages": [
         "numpy"
