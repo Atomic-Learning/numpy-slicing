@@ -1,22 +1,22 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "NumPy: Slicing",
+    "slug": "numpy-slicing",
+    "description": "How slicing an array works in NumPy, and how the returned arrays are view of the original array.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy"
     ],
-    "duration": 0,
+    "duration": 6,
     "prerequisites": [
-        "",
-        ""
+        "numpy-indexing",
+        "python-slicing"
     ],
     "related": [
-        "",
-        ""
+        "numpy-every-index-in-a-dimension",
+        "numpy-everything-before-an-index",
+        "numpy-everything-starting-from-an-index"
     ]
 }
